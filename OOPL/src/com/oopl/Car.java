@@ -1,0 +1,23 @@
+package com.oopl;
+
+public class Car 
+{
+	String color;
+	int price;
+	String brand;
+	
+	void start() 
+	{
+		System.out.println("Car is starting");
+	}
+	
+	void accelerate()
+	{
+		System.out.println("Car is accelerating");
+	}
+	
+	void stop()
+	{
+		System.out.println("Car Is stoping");
+	}
+}
