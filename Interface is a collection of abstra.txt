@@ -1,0 +1,11 @@
+Interface is a collection of abstract methods (Pure abstract).
+
+Cannot create the object of an interface.
+
+Can create the reference of an interface.
+
+Can achieve polymorphism using interface (upcasting).
+
+Multiple inheritance is possible using interface.
+
+By default, the methods in interface will be public and abstract.
